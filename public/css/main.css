@@ -1,0 +1,13 @@
+body{
+    background-color: beige;
+}
+
+ul {
+    background-color: orange;
+    height: 50px;
+    line-height: 50px;
+}
+
+ul li {
+    display: inline;
+}
