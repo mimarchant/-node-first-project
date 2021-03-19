@@ -3,11 +3,33 @@ body{
 }
 
 ul {
-    background-color: orange;
+    background-color: navy;
     height: 50px;
     line-height: 50px;
 }
 
 ul li {
     display: inline;
+    padding: 0 5px;
+}
+
+.container {
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.shop {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.title  {
+    text-align: center;
+    margin: auto;
+}
+
+.subtitle {
+    text-align: center;
+    margin: auto;
 }
